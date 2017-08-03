@@ -1,8 +1,17 @@
+body {
+  background: url("../images/berlin.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
 .glyphicon {
     font-size: 50px;
 }
 
-body {
-  background: url("../images/berlin.jpg") no-repeat center center fixed;
-  background-size: cover;
+.well {
+  background-color: rgba(245, 245, 245, 0.8);
+}
+
+#jumbo {
+  background: rgba(245, 245, 245, 0.8);
+  text-align: center;
 }
